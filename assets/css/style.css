@@ -200,3 +200,10 @@ p {
 .footer h2 {
   font-size: 20px;
 }
+
+/* Added media screen line for nav bar to accomodate mobile users */
+@media screen and (max-width: 1050px) {
+  .header nav {
+    font-size: 18px;
+  }
+}
