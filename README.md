@@ -12,3 +12,6 @@ No install needed, you can visit https://nicholascatalano.github.io/seo-company-
 
 To inspect code, please right click on the webpage and select inspect.
 
+#### Screenshot
+
+![eo5Ue0b](https://github.com/nicholascatalano/seo-company-refactor/assets/149517751/ec932e0f-449d-459d-9dfc-519c5ba49b81)
